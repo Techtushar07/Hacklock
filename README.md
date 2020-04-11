@@ -40,7 +40,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/noob-hackers/hacklock
+$ git clone https://github.com/Techtushar07/Hacklock
 ```
 ```
 $ ls
