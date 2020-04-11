@@ -84,34 +84,34 @@ __Exit__ :
 
 
 ## 📌 ***Full video tutorial***:
-[![m-wiz metasploit-framework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtu.be/8RXVODXMsa8)
+
 ## 🔗 ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
+https://www.youtube.com/channel/UCWctvr228dI1PF_IU4oWtfQ
 
 ### Chekout our webite:
-https://www.noob-hackers.com
+http://techtushar.site
 
 ## 👥 ***Join***
 
-### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
+### Facebook Page: 
+https://www.facebook.com/daveratushar/
 
 ### Telegram channel:
-https://t.me/noobhack
+https://t.me/mafia_lion
 
-### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
+### Facebook:
+https://www.facebook.com/tushar.davera.3
 
 ### Instagram: 
-https://www.instagram.com/noobhackers352
+https://www.instagram.com/tushardavera/
 
 ### Pinterest:
-https://in.pinterest.com/noobhackers
+https://www.pinterest.co.uk/tushardavera/
 
 ### My GitHub ID link:
-https://www.github.com/noob-hackers
+https://www.github.com/Techtushar07
 
 ### 📢 Warning
 
